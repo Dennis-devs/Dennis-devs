@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dennis-devs
-- 👀 I’m interested in Software Development | system design, integration, Implementation | 
+- 👀 I’m interested in Software Development/ Web development/design | project/system design, integration, Implementation | 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Projects | Learning 
 - 📫 How to reach me --> dennis.ogoll@gmail.com
