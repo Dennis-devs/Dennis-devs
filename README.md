@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dennis-devs
-- 👀 I’m interested in Software Development/ Web development/design | project/system design, integration, Implementation | 
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Projects | Learning 
+- 👀 I’m interested in Software Engineering/Development | web & Mobile App Development | project collaboration | 
+- 🌱 I’m currently doing React projects
+- 💞️ I’m looking to collaborate on Projects | Learn
 - 📫 How to reach me --> dennis.ogoll@gmail.com
 
 <!---
