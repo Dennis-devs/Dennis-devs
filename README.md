@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dennis-devs
 - 👀 I’m interested in Software Engineering/Development | web & Mobile App Development | project collaboration | 
-- 🌱 I’m currently doing React projects
+- 🌱 i am open to backend developer roles, Fullstack roles
 - 💞️ I’m looking to collaborate on Projects | Learn
 - 📫 How to reach me --> dennis.ogoll@gmail.com
 
